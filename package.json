@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-ssms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mssql": "^8.1.2",
+    "sequelize": "^6.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shot83428/Nodejs-ssms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shot83428/Nodejs-ssms/issues"
+  },
+  "homepage": "https://github.com/shot83428/Nodejs-ssms#readme"
+}
